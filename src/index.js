@@ -25,6 +25,8 @@ import R22 from './R22';
 import R23 from './R23';
 import R24 from './R24';
 import R25 from './R25';
+import R26 from './R26';
+//import R27 from './R27';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -54,6 +56,7 @@ root.render(
     <R23 />
     <R24 />
     <R25 />
+    <R26 />
   </React.StrictMode>
 );
 
